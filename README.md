@@ -1,3 +1,5 @@
+export PS1='\[\033]0;$TITLEPREFIX:$PWD\007\]\n\[\033[32m\]\u@\h \[\033[35m\]$MSYSTEM \[\033[33m\]\w\[\033[36m\]`__git_ps1`\[\033[0m\]\n$ '
+
 # 💫 About Me:
 
 🔭 I’m Sarathi Nanavati, a Full-Stack Web Developer and I bring over 14 years of experience in the tech industry, including 4+ years specializing in web development as both a frontend and backend developer.<br>✅ Node.js ✅ Express.js ✅ Nest.js <br>✅ React.js ✅ Next.js ✅ JavaScript ✅ TypeScript
