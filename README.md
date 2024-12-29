@@ -23,7 +23,7 @@
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23242526.svg?style=for-the-badge&logo=redux&logoColor=%23BA8FFF)
 ![Redux Saga](https://img.shields.io/badge/Redux_Saga-%23323330.svg?style=for-the-badge&logo=reduxsaga&logoColor=%23F7DF1E)
 ![Recoil](https://img.shields.io/badge/Recoil-%233578E5.svg?style=for-the-badge&logo=recoil&logoColor=%23FFFFFF)
-![Jotai](https://img.shields.io/badge/Jotai-%23111111.svg?style=for-the-badge&logo=jotai&logoColor=%23FFFFFF)
+![Jotai](https://img.shields.io/badge/Jotai-%23333333.svg?style=for-the-badge&logo=jotai&logoColor=%23FFFFFF)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
