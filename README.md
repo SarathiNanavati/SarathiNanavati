@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m Sarathi Nanavati, a Full-Stack Web Developer and I bring over 14 years of experience in the tech industry, including 5+ years specializing in web development as both a frontend and backend developer.<br>✅ Node.js ✅ Express.js ✅ Nest.js <br>✅ React.js ✅ Next.js ✅ JavaScript ✅ TypeScript
+🔭 I’m Sarathi Nanavati, a Full-Stack Web Developer and I bring over 14 years of experience in the tech industry, including 5+ years specializing in web development as both a frontend and backend developer.<br>✅ Node.js ✅ Express.js ✅ Nest.js <br>✅ React.js ✅ Next.js ✅ Angular ✅ React Native ✅ JavaScript ✅ TypeScriptx
 
 ## 🌐 Socials:
 
